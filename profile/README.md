@@ -10,7 +10,7 @@ This is a mirror of most of its public reposiotires.
 
 * [**SpinNet**](https://qyber.black/spinnet) on Qyber\black\
   Quantum control and robust control for spin networks.
-  * [Info](https://github.com/qyber-black/Info-SpinNet) - Mirror of https://qyber.black/spinnet/info-spinnet \
+  * [Info](https://github.com/qyber-black/Info-SpinNet/wiki) - Mirror of https://qyber.black/spinnet/info-spinnet \
     Information about the spin network and related quantum control projects and summary of published results.
   * [MatSpinNet](https://github.com/qyber-black/Code-MatSpinNet) - Mirror of https://qyber.black/spinnet/code-matspinnet \
     Matlab code for control, analysis, etc of quantum spin-1/2 networks.
@@ -27,13 +27,15 @@ This is a mirror of most of its public reposiotires.
 
 * [**Magnetic Resonance Spectroscopy**](https://qyber.black/mrs) on Qyber\black\
   MRS pulse sequences, spectral analysis and quantification.
+  * [Info](https://github.com/qyber-black/Info-MRS/wiki) - Mirror of https://qyber.black/mrs/info-mrs \
+    Information about the magnetic resonance spectroscopy projects and summary of published results.
   * [LWFIT](https://github.com/qyber-black/Code-LWFIT) - Mirror of https://qyber.black/pca/code-qdicom-utilities \
     GABA quantification from MEGA-PRESS magnetic resonance spectra.
   * [MRSNet](https://github.com/MaxChandler/MRSNet) - Mirror of https://qyber.black/mrs/code-mrsnet \
     MR spectral quantification using convoloutional neural networks.
 * [**Prostate Cancer**](https://qyber.black/ca) on Qyber\black\
   Cancer diagnosis.
-  * [Info](https://github.com/qyber-black/Info-Cancer) - Mirror of https://qyber.black/spinnet/info-spinnet \
+  * [Info](https://github.com/qyber-black/Info-Cancer/wiki) - Mirror of https://qyber.black/spinnet/info-spinnet \
     Information about the prostate and brain cancer projects and summary of published results.
   * [QDicom-Utilties](https://github.com/qyber-black/Code-QDicom-Utilities) - Mirror of https://qyber.black/ca/code-qdicom-utilities \
     Utilities to deal with dicom files and data repositories.

@@ -33,8 +33,8 @@ This is a mirror of most of its public reposiotires.
     GABA quantification from MEGA-PRESS magnetic resonance spectra.
   * [MRSNet](https://github.com/MaxChandler/MRSNet) - Mirror of https://qyber.black/mrs/code-mrsnet \
     MR spectral quantification using convoloutional neural networks.
-* [**Prostate Cancer**](https://qyber.black/ca) on Qyber\black\
-  Cancer diagnosis.
+* [**Cancer**](https://qyber.black/ca) on Qyber\black\
+  Prostae and brain cancer diagnosis.
   * [Info](https://github.com/qyber-black/Info-Cancer/wiki) - Mirror of https://qyber.black/spinnet/info-spinnet \
     Information about the prostate and brain cancer projects and summary of published results.
   * [QDicom-Utilties](https://github.com/qyber-black/Code-QDicom-Utilities) - Mirror of https://qyber.black/ca/code-qdicom-utilities \

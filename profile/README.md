@@ -14,7 +14,7 @@ This is a mirror of most of its public reposiotires.
     Information about the spin network and related quantum control projects and summary of published results.
   * [MatSpinNet](https://github.com/qyber-black/Code-MatSpinNet) - Mirror of https://qyber.black/spinnet/code-matspinnet \
     Matlab code for control, analysis, etc of quantum spin-1/2 networks.
-  * [RobChar](https://github.com/qyber-black/robchar_public) - Mirror of https://qyber.black/spinnet/code-robchar \
+  * [RobChar](https://github.com/qyber-black/code-robchar) - Mirror of https://qyber.black/spinnet/code-robchar \
     Statistical robustness characterization of quantum controls and quantum control algorithms.
   * [Data - Static Bias Controllers for XX Spin Rings](https://github.com/qyber-black/Data-Static-Bias-Controllers-XX-Spin-Rings) - Mirror of https://qyber.black/spinnet/data-static-bias-controllers-xx-spin-rings \
      This data set contains the results of applying optimal control of information propagation in networks of spin-1/2 particles with uniform nearest neighbor XX-couplings forming a ring with a single excitation in the network as simple prototype of a router for spin-based information.

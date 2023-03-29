@@ -27,7 +27,7 @@ This is a mirror of most of its public reposiotires.
 
 * [**Magnetic Resonance Spectroscopy**](https://qyber.black/mrs) on Qyber\black\
   MRS pulse sequences, spectral analysis and quantification.
-  * [Info](https://github.com/qyber-black/Info-MRS/wiki) - Mirror of https://qyber.black/ca/info-cancer/ \
+  * [Info](https://github.com/qyber-black/Info-MRS/wiki) - Mirror of https://qyber.black/mrs/info-mrs/ \
     Information about the magnetic resonance spectroscopy projects and summary of published results.
   * [LWFIT](https://github.com/qyber-black/Code-LWFIT) - Mirror of https://qyber.black/pca/code-qdicom-utilities \
     GABA quantification from MEGA-PRESS magnetic resonance spectra.
@@ -35,7 +35,7 @@ This is a mirror of most of its public reposiotires.
     MR spectral quantification using convoloutional neural networks.
 * [**Cancer**](https://qyber.black/ca) on Qyber\black\
   Prostae and brain cancer diagnosis.
-  * [Info](https://github.com/qyber-black/Info-Cancer/wiki) - Mirror of https://qyber.black/spinnet/info-spinnet \
+  * [Info](https://github.com/qyber-black/Info-Cancer/wiki) - Mirror of https://qyber.black/ca/info-cancer/ \
     Information about the prostate and brain cancer projects and summary of published results.
   * [QDicom-Utilties](https://github.com/qyber-black/Code-QDicom-Utilities) - Mirror of https://qyber.black/ca/code-qdicom-utilities \
     Utilities to deal with dicom files and data repositories.

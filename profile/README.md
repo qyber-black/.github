@@ -27,7 +27,7 @@ This is a mirror of most of its public reposiotires.
 
 * [**Magnetic Resonance Spectroscopy**](https://qyber.black/mrs) on Qyber\black\
   MRS pulse sequences, spectral analysis and quantification.
-  * [Info](https://github.com/qyber-black/Info-MRS/wiki) - Mirror of https://qyber.black/mrs/info-mrs \
+  * [Info](https://github.com/qyber-black/Info-MRS/wiki) - Mirror of https://qyber.black/ca/info-cancer/ \
     Information about the magnetic resonance spectroscopy projects and summary of published results.
   * [LWFIT](https://github.com/qyber-black/Code-LWFIT) - Mirror of https://qyber.black/pca/code-qdicom-utilities \
     GABA quantification from MEGA-PRESS magnetic resonance spectra.

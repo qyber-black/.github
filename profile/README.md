@@ -20,6 +20,8 @@ This is a mirror of most of its public reposiotires.
      This data set contains the results of applying optimal control of information propagation in networks of spin-1/2 particles with uniform nearest neighbor XX-couplings forming a ring with a single excitation in the network as simple prototype of a router for spin-based information.
   * [Differential-Sensitivity-Bounds-for-Dynamic-Control](https://github.com/qyber-black/Code-Differential-Sensitivity-Bounds-for-Dynamic-Control) - Mirror of https://qyber.black/spinnet/code-differential-sensitivity-bounds-for-dynamic-control \
     Code and data for differential sensitivity bounds for dynamic control used in "Robustness of Dynamic Quantum Control: Differential Sensitivity Bounds".
+  * [Robustness ofEnergy Landscpae Control - Sensitivity vs. RIM](https://github.com/qyber-black/code-robustness-of-energy-landscape-control-sensitivity-vs-rim) - Mirror of https://qyber.black/spinnet/code-robustness-of-energy-landscape-control-sensitivity-vs-rim \
+    Code and controller data to compare log sensitivity and RIM robustness measures for energy landscape control.   
 * [**Quantum Spintronics**](https://qyber.black/quantum-spintronics)\
   Simulation and control of quantum spintronic semiconductor devices.
   * [Info](https://github.com/qyber-black/Info-Quantum-Spintronics/wiki) - Mirror of https://qyber.black/quantum-spintronics/info-quantum-spintronics \

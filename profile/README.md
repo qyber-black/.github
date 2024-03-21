@@ -45,3 +45,5 @@ This is a mirror of most of its public reposiotires.
     Utilities to deal with dicom files and data repositories.
   * [BCa](https://github.com/qyber-black/Code-BCa) - Mirror of https://qyber.black/ca/code-bca \
     Code for brain cancer segmentation.
+  * [PCaNet]() - Mirror of https://qyber.black/ca/code-pcanet \
+    Prostate cancer segmentation and classification with machine learning.
